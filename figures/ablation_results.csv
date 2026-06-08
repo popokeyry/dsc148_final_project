@@ -1,0 +1,6 @@
+Variant,RMSE,MAE,R²
+baseline (all features),13.66,9.599,0.4984
+No track_genre,15.784,12.451,0.3303
+No log_duration (raw duration_ms),13.656,9.58,0.4987
+Audio features only (no categorical features),15.86,12.508,0.3239
+No explicit flag,13.715,9.646,0.4944
